@@ -7,9 +7,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Repo Size](https://img.shields.io/github/repo-size/ginaisthando/TicTacToe)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-![Open Issues](https://img.shields.io/github/issues/your-username/your-repo)
-![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/ginaisthando/TicTacToe)
+![Open Issues](https://img.shields.io/github/issues/ginaisthando/TicTacToe)
+![Stars](https://img.shields.io/github/stars/ginaisthando/TicTacToe?style=social)
 
 A lightweight, browser-based Tic Tac Toe game with **user registration, login, password reset, local authentication**, and a **win-based leaderboard** persisted to `localStorage`. No backend or database required.
 
