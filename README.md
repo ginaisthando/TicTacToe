@@ -52,9 +52,9 @@ A lightweight, browser-based Tic Tac Toe game with **user registration, login, p
 
 ## 🗂 Project Structure
 .
-├── index.html # Markup for UI sections and buttons
-├── style.css # Styles for layout, board, and controls
-└── script.js # Logic for auth, gameplay, storage, and leaderboard
+├── index.html # Markup for UI sections and buttons<br>
+├── style.css # Styles for layout, board, and controls<br>
+└── script.js # Logic for auth, gameplay, storage, and leaderboard<br>
 
 
 ---
