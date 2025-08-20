@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)
+![Repo Size](https://img.shields.io/github/repo-size/ginaisthando/TicTacToe)
 ![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
 ![Open Issues](https://img.shields.io/github/issues/your-username/your-repo)
 ![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
